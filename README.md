@@ -1,2 +1,13 @@
 # UCB-CS61A
-My journey through CS61A - projects, notes, and weekly reflections.
+
+This repository documents my journey through CS61A at UC Berkeley.
+
+## Structure
+- projects/
+- homework/
+- labs/
+- notes/
+- weekly-logs/
+
+## Goal
+To deeply understand recursion, abstraction, and the foundations of computer science.
