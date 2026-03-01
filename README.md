@@ -1,2 +1,2 @@
 # UCB-CS61A
-My CS61A journey: projects, notes, weekly logs
+My journey through CS61A - projects, notes, and weekly reflections.
